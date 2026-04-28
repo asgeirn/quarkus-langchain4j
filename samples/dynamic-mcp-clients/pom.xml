@@ -4,7 +4,7 @@
     <parent>
         <groupId>io.quarkiverse.langchain4j</groupId>
         <artifactId>quarkus-langchain4j-samples-parent</artifactId>
-        <version>999-SNAPSHOT</version>
+        <version>1.8.4-tlsfix</version>
     </parent>
     <artifactId>quarkus-langchain4j-samples-dynamic-mcp-clients-parent</artifactId>
     <name>Quarkus LangChain4j - Samples - Dynamic MCP Clients Parent</name>
